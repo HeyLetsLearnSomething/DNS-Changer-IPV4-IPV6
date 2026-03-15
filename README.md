@@ -1,6 +1,9 @@
-# Custom DNS Changer IPV4 & IPV6 on Android
+# Custom DNS Changer IPV4 & IPV6 on Android / iOS
 
-Download the app: [Google Play Store](https://play.google.com/store/apps/details?id=com.ideastocode.customdns).
+Download the app: 
+[Google Play Store](https://play.google.com/store/apps/details?id=com.ideastocode.customdns).
+
+[App Store](https://apps.apple.com/us/app/custom-dns-changer-ipv4-ipv6/id6759860096).
 
 DNS changer android app easily changes the DNS on a few taps. Works on both IPv4 and IPv6 and Wi-Fi and mobile networks, and you do not need to root your phone. This app does not change the IP Address, but can open many blocked websites on your phone.
 
